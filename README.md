@@ -23,6 +23,7 @@ AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/tex
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
 ## Update ver1.0.0  
+test
 <br>
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
