@@ -19,12 +19,10 @@ This exe file uses the following Free Assets but the repository does not contain
 VoiPaStudio1.0.0.zip は、Windows, Mac, Linux のスタンドアロンで動作する Unity 用の exe ファイルです。 
 このexeファイルは、以下のフリーアセットを使用していますが、ライセンスの関係で、リポジトリには含まれていません。 
 <br>
-Standard Assets (for Unity 2017.3) : https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351  
 AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
-## Update ver1.0.0   
-Add Dynamic Mode:  
+## Update ver1.0.0     
 <br>
 <br>
 ## Creators
