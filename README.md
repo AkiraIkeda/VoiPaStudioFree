@@ -22,9 +22,9 @@ VoiPaStudio1.0.0.zip は、Windows, Mac, Linux のスタンドアロンで動作
 AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
-## Update ver1.0.0     
+## Update ver1.0.0  
 <br>
-## Creators
+## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
 VFX Idea(Kaleidoscope) : Chun  
