@@ -9,7 +9,7 @@ VoiPaプロジェクトは、音声や音楽と一緒にインタラクティブ
 <br>
 VFX Fireworks Demo : https://www.youtube.com/watch?v=rkTLEKyIi5k  
 VFX Kaleidoscope Demo : https://www.youtube.com/watch?v=GWgcSyNHSb4  
-<Br>
+<br>
 ![VoiPaFireworksFree01](https://user-images.githubusercontent.com/46648955/86839282-31427b00-c0dc-11ea-909f-99eaf201ad0d.png)
 <br>
 ## Windows, Mac & Linux Standalone exe  
@@ -23,7 +23,6 @@ AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/tex
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
 ## Update ver1.0.0     
-<br>
 <br>
 ## Creators
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
