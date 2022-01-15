@@ -3,9 +3,9 @@ VoiPa project is designed for enjoying interactive visual contents with voice or
 Your microphone records sounds in real-time and the colorful effect appeared just time.  
 This Program runs in Unity 2021.2.8f1 
 <br>
-VoiPaプロジェクトは、音声や音楽でインタラクティブな映像コンテンツを楽しむためのプロジェクトです。  
-あなたのマイクがリアルタイムで音を録音し、タイミングよくカラフルなエフェクトが。  
-このプログラムはUnity 2021.2.8f1で動作します。  
+VoiPaプロジェクトは、音声や音楽と一緒にインタラクティブな映像コンテンツを楽しむためのプロジェクトです。 
+マイクで音をリアルタイムに録音し、そのタイミングでカラフルなエフェクトを表示します。 
+このプログラムは、Unity 2021.2.8f1で動作します。 
 <br>
 VFX Fireworks Demo : https://www.youtube.com/watch?v=rkTLEKyIi5k  
 VFX Kaleidoscope Demo : https://www.youtube.com/watch?v=GWgcSyNHSb4  
