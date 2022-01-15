@@ -7,7 +7,8 @@ VoiPaプロジェクトは、音声や音楽でインタラクティブな映像
 あなたのマイクがリアルタイムで音を録音し、タイミングよくカラフルなエフェクトが。  
 このプログラムはUnity 2021.2.8f1で動作します。  
 <br>
-Demo : https://www.youtube.com/watch?v=Q-3Qb_14TuQ&feature=youtu.be  
+VFX Fireworks Demo : https://www.youtube.com/watch?v=rkTLEKyIi5k　　
+VFX Kaleidoscope Demo : https://www.youtube.com/watch?v=GWgcSyNHSb4  
 <Br>
 ![VoiPaFireworksFree01](https://user-images.githubusercontent.com/46648955/86839282-31427b00-c0dc-11ea-909f-99eaf201ad0d.png)
 <br>
@@ -29,7 +30,7 @@ Add Dynamic Mode:
 ## Creators
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
-  VFX Kaleidoscope Idea : Chun  
+VFX Idea(Kaleidoscope) : Chun  
 Special Thanks to  
 VFX Demonstration :   
 Pei https://www.youtube.com/channel/UCg54EmEsHx7JRd-nCL2PbvQ  
