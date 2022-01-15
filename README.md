@@ -10,8 +10,8 @@ VoiPaプロジェクトは、音声や音楽と一緒にインタラクティブ
 VFX Fireworks Demo : https://www.youtube.com/watch?v=rkTLEKyIi5k  
 VFX Kaleidoscope Demo : https://www.youtube.com/watch?v=GWgcSyNHSb4  
 <br>
-![VoiPaFireworksFree01](https://user-images.githubusercontent.com/46648955/86839282-31427b00-c0dc-11ea-909f-99eaf201ad0d.png)
-<br>
+[![](https://img.youtube.com/vi/rkTLEKyIi5k/0.jpg)](https://www.youtube.com/watch?v=rkTLEKyIi5k)  
+[![](https://img.youtube.com/vi/GWgcSyNHSb4/0.jpg)](https://www.youtube.com/watch?v=GWgcSyNHSb4)  
 ## Windows, Mac & Linux Standalone exe  
 VoiPaStudio1.0.0.zip contains the exe file builed to Windows, Mac, Linux Standalone by Unity.  
 This exe file uses the following Free Assets but the repository does not contains them because the reason of the licence.  
