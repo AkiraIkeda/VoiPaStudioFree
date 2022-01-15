@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VoiPa Studio.unity
+    guid: d2813aab7932dcd468c4a108aeed7981
   m_configObjects: {}

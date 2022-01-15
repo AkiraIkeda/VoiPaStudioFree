@@ -1,0 +1,1393 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.8f1 (d0e5f0a7b06a) revision 13690352'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'ja' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/shins/Documents/GitHub/VoiPaStudioFree/VoiPaStudioFree
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64665
+Successfully changed project path to: C:/Users/shins/Documents/GitHub/VoiPaStudioFree/VoiPaStudioFree
+C:/Users/shins/Documents/GitHub/VoiPaStudioFree/VoiPaStudioFree
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 67.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.8f1 (d0e5f0a7b06a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/shins/Documents/GitHub/VoiPaStudioFree/VoiPaStudioFree/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8119 MB
+    Driver:   27.20.100.9749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005293 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Domain Reload Profiling:
+	ReloadAssembly (750ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (553ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (133ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (303ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (64ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (162ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.706 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2707ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (2375ms)
+			LoadAssemblies (157ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (1823ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (1541ms)
+				ProcessInitializeOnLoadMethodAttributes (99ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3320 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (0.6 MB). Loaded Objects now: 3827.
+Memory consumption went from 256.5 MB to 255.9 MB.
+Total: 6.353900 ms (FindLiveObjects: 0.394500 ms CreateObjectMapping: 0.308000 ms MarkObjects: 5.069900 ms  DeleteObjects: 0.579200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9369.139947 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(e25e4816042b7c047a17a5ef0cff6f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(e25e4816042b7c047a17a5ef0cff6f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96728373300404bd4fe009d3651ceb52') in 0.040229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Scenes/VoiPa Studio
+  artifactKey: Guid(3d94001c491a7874ea572a0df45263eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VoiPa Studio using Guid(3d94001c491a7874ea572a0df45263eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e972dfa59ccd9b1446175e4da089966b') in 0.032442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Scenes/VoiPa Studio.unity
+  artifactKey: Guid(d2813aab7932dcd468c4a108aeed7981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VoiPa Studio.unity using Guid(d2813aab7932dcd468c4a108aeed7981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa164f21d2b00b5aef4e62295930c9f3') in 0.043453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scenes/VoiPa Studio/Post Processing Profile.asset
+  artifactKey: Guid(5b91f5e9eb4c04b42a84c4eae6a19775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VoiPa Studio/Post Processing Profile.asset using Guid(5b91f5e9eb4c04b42a84c4eae6a19775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b42df263980d48e6309a8278e14e4e') in 0.067915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Effect
+  artifactKey: Guid(bd70046e475e7d446b443915ed0fd153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect using Guid(bd70046e475e7d446b443915ed0fd153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8720ef84e6bffe5cd482c5f43f17db43') in 0.032064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Effect/Fireworks
+  artifactKey: Guid(7cb37166c4e399647b3c509ff086e615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks using Guid(7cb37166c4e399647b3c509ff086e615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc3f0cdb995b86d838e3137947659ea') in 0.030606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.406642 seconds.
+  path: Assets/Material
+  artifactKey: Guid(fd308965760022644ace2b6056853a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(fd308965760022644ace2b6056853a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778df1b5913167ff9de9f38659c8019d') in 0.025125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050230 seconds.
+  path: Assets/Material/Skybox01.mat
+  artifactKey: Guid(d39e51e74cea3b94fa62405dd2ff6444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Skybox01.mat using Guid(d39e51e74cea3b94fa62405dd2ff6444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d255c964e92d79defc66cb62190f0d1') in 0.297559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Material/Skybox02.mat
+  artifactKey: Guid(1a8da449f06835d43ad936e221edf5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Skybox02.mat using Guid(1a8da449f06835d43ad936e221edf5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2acbccb4a169e2495d9000738cd7489c') in 0.080975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Material/Skybox03.mat
+  artifactKey: Guid(51f05e40eaadd944cb1e51128f616052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Skybox03.mat using Guid(51f05e40eaadd944cb1e51128f616052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e0527903a0a8205a5a2bfd4263bc02') in 0.083616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Material/SkyboxBlack.mat
+  artifactKey: Guid(20085ab08c12dfe41946267619ac3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SkyboxBlack.mat using Guid(20085ab08c12dfe41946267619ac3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b844c2914611e998a12dc26b114ce9') in 0.056721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.947519 seconds.
+  path: Assets/Effect/Kaleidoscope
+  artifactKey: Guid(0a117fc0b20d1314384326b0d087d0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope using Guid(0a117fc0b20d1314384326b0d087d0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd007aaff3f13a9db5a64969034c86d1a') in 0.035513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.073346 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(3ec237769f11cff4b9d8adbbde804eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(3ec237769f11cff4b9d8adbbde804eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16708672ac2d1ad6568672f1f972795e') in 0.027086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.245434 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(118ef07d0e2bed047a94a9be0bd8c30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(118ef07d0e2bed047a94a9be0bd8c30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffca15b82a501d840ad2915ed2edbf1') in 0.029073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047396 seconds.
+  path: Assets/Prefabs/SpectrumBar.prefab
+  artifactKey: Guid(be61d081625fbca45b109b58206b11b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SpectrumBar.prefab using Guid(be61d081625fbca45b109b58206b11b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb704e0a8db2d67b9ce0d9fb16cb126') in 0.058447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.876081 seconds.
+  path: Assets/Effect/Fireworks/Prefabs
+  artifactKey: Guid(5a6502d6b7d336e46bcd0a8c12447c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs using Guid(5a6502d6b7d336e46bcd0a8c12447c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c2af9aa55ed6d2e684d31ccbdeeafd') in 0.032004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051836 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanPokaStar.prefab
+  artifactKey: Guid(d938a8e4aca5b7a48b4898003005295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanPokaStar.prefab using Guid(d938a8e4aca5b7a48b4898003005295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79cbce7d9ed58c02dccb2757130f01e5') in 0.062328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/MiraiStar.prefab
+  artifactKey: Guid(36c4cd64d575340438cfe566e552c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/MiraiStar.prefab using Guid(36c4cd64d575340438cfe566e552c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38981b1c09dfce104aefc389632966ef') in 0.043666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar.prefab
+  artifactKey: Guid(17289c593f1b9b0499d7acc1daf291a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar.prefab using Guid(17289c593f1b9b0499d7acc1daf291a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267588dbe6edde1ca863f678a4c75d79') in 0.053686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuToraStar.prefab
+  artifactKey: Guid(3c4a3c9dd6f6cd74f9137531218cb0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuToraStar.prefab using Guid(3c4a3c9dd6f6cd74f9137531218cb0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0a64b50df185eb290b35e130782695') in 0.055645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiToraStar.prefab
+  artifactKey: Guid(a43075a093e4805448706f233d9eaf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiToraStar.prefab using Guid(a43075a093e4805448706f233d9eaf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da35e7bc881da74cb0635b9f0922807') in 0.059384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar5.prefab
+  artifactKey: Guid(f50e55045c22c6b478ec3471dceb726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar5.prefab using Guid(f50e55045c22c6b478ec3471dceb726d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbdec1522098db8fe838d31a0a21c47a') in 0.060343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar.prefab
+  artifactKey: Guid(6431d6c68f753eb439fabd2e24d35881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar.prefab using Guid(6431d6c68f753eb439fabd2e24d35881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b50331d940c9ad9aa5068f9b49bdde') in 0.056674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar4.prefab
+  artifactKey: Guid(861d479d51ba6b1499e9287b6529b90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar4.prefab using Guid(861d479d51ba6b1499e9287b6529b90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224337f0c7401297080692c37c8b2f8a') in 0.055716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/SazanamiStar.prefab
+  artifactKey: Guid(b3cc75e0735eec44eb058350695f9276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/SazanamiStar.prefab using Guid(b3cc75e0735eec44eb058350695f9276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc98c6d69ddf88a8a12c709e5e757a9') in 0.058044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar1.prefab
+  artifactKey: Guid(842c9fda62113e94c9fe3969c9f346ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar1.prefab using Guid(842c9fda62113e94c9fe3969c9f346ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b062efb733f40e6eeae0ba2dfe8dc9') in 0.060938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroRingStar.prefab
+  artifactKey: Guid(a706a16c112d9b442b0843416eebda06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroRingStar.prefab using Guid(a706a16c112d9b442b0843416eebda06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d820845e770347a4bdce39bce815959') in 0.063335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar4.prefab
+  artifactKey: Guid(a748b7f6c81c64b47b60b6584b2bdbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar4.prefab using Guid(a748b7f6c81c64b47b60b6584b2bdbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740033350fbb6fc53cee511adff5a6ac') in 0.054756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar3.prefab
+  artifactKey: Guid(8c7c6bdd3a5a4394d86a9fb5c96018aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar3.prefab using Guid(8c7c6bdd3a5a4394d86a9fb5c96018aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3fb331c2446465a2e90eb50a7df27cd') in 0.062365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar.prefab
+  artifactKey: Guid(02ac5ea5ed0c7fb4b87f2695879222c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar.prefab using Guid(02ac5ea5ed0c7fb4b87f2695879222c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9956ab3cbc82e36f3452d5dea93d28c') in 0.056614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar3.prefab
+  artifactKey: Guid(d49e9907083f707438693d9baf7f2f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar3.prefab using Guid(d49e9907083f707438693d9baf7f2f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1a84e9f9af2fcf64d92c8597ce27de') in 0.088132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar1.prefab
+  artifactKey: Guid(9ab0e0248c1b2664bb39c2f0edee93f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar1.prefab using Guid(9ab0e0248c1b2664bb39c2f0edee93f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0820ea985b7abf7a69dd49607a0d8e1') in 0.061163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar.prefab
+  artifactKey: Guid(f3ec4dd040e37e84ba54668fa428f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar.prefab using Guid(f3ec4dd040e37e84ba54668fa428f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88a5a91dfe4baa72889c3665604a6b4') in 0.054514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar3.prefab
+  artifactKey: Guid(29ed86487fbef8b42b972304e2325962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar3.prefab using Guid(29ed86487fbef8b42b972304e2325962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ac198d8dc4110f471781b57da0e8ba') in 0.064769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/HiyuStar.prefab
+  artifactKey: Guid(595c6b22cf65e534082e2687beb72b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/HiyuStar.prefab using Guid(595c6b22cf65e534082e2687beb72b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259edc2a6b24d896b48698b34319822e') in 0.058251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar5.prefab
+  artifactKey: Guid(bd4c043adb8561e4a9b6cbea5850393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar5.prefab using Guid(bd4c043adb8561e4a9b6cbea5850393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58b0da5282513c1fc073c62772ef3c5') in 0.056686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar5.prefab
+  artifactKey: Guid(d01a82cb649d13641a388b9b29cbf123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar5.prefab using Guid(d01a82cb649d13641a388b9b29cbf123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6541f8b4a2c29e85390d228657a07b8') in 0.059852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/RandamaStar.prefab
+  artifactKey: Guid(2204d88b054afc14698087b0332768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/RandamaStar.prefab using Guid(2204d88b054afc14698087b0332768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785c844ff9ddb68b7a05098a5de08e73') in 0.071704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiRingStar.prefab
+  artifactKey: Guid(95cf1482db7fe8f40a8cfd3297bab439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiRingStar.prefab using Guid(95cf1482db7fe8f40a8cfd3297bab439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1952eec2b24b024e71f3e3fcdb756bcb') in 0.058599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiSparseStar.prefab
+  artifactKey: Guid(ed74b498932e72a4390026640e19bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiSparseStar.prefab using Guid(ed74b498932e72a4390026640e19bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450aa1ddcab5bf332294df3804a44447') in 0.056711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar3.prefab
+  artifactKey: Guid(14d446177bf8523409d7d3e53c3db633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar3.prefab using Guid(14d446177bf8523409d7d3e53c3db633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c07e70e652550ac0cd1274d9e948d5') in 0.057764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar4.prefab
+  artifactKey: Guid(184d9744a7c299844b8a9c5e16e84a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar4.prefab using Guid(184d9744a7c299844b8a9c5e16e84a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3b6c43a87dfe2eb5e7824feaf16aba') in 0.060717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroStar2.prefab
+  artifactKey: Guid(256ac23e7b7f3574e86d615f1286705e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroStar2.prefab using Guid(256ac23e7b7f3574e86d615f1286705e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b72c01404ad207c8f54baa7dd4303d4') in 0.052014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiPokaStar.prefab
+  artifactKey: Guid(58dd3fd0cc4f710459ce006ada087503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiPokaStar.prefab using Guid(58dd3fd0cc4f710459ce006ada087503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38ae00e211d173b52550f8adfee670f') in 0.054577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroSparseStar.prefab
+  artifactKey: Guid(c626248290442d04784a87bb359b03bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroSparseStar.prefab using Guid(c626248290442d04784a87bb359b03bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5924ffd93458f96350da83d4a3a5ce2a') in 0.050472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar5.prefab
+  artifactKey: Guid(f342d0f53d4371c48ab740360086af15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar5.prefab using Guid(f342d0f53d4371c48ab740360086af15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f5ffb0227ca4ac6e7d1511da50a346') in 0.059188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuPokaStar.prefab
+  artifactKey: Guid(9ddc8cced1f1b56459501c9c4ea2a8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuPokaStar.prefab using Guid(9ddc8cced1f1b56459501c9c4ea2a8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af26b890664a2448e224297b8f8b2e1') in 0.059609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroSenrinStar.prefab
+  artifactKey: Guid(20212aba387b6864e84ec0211906bfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroSenrinStar.prefab using Guid(20212aba387b6864e84ec0211906bfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d4278ac4bbb0fc19a80e145bf053b6') in 0.052831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuSenrinStar.prefab
+  artifactKey: Guid(c5dbf7ffe08e5af44867fcb633e59f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuSenrinStar.prefab using Guid(c5dbf7ffe08e5af44867fcb633e59f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f4f32fade046212c25d70494fd8a7d') in 0.056003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar5.prefab
+  artifactKey: Guid(469a5ecc6fbf3e54c882e273e59c5991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar5.prefab using Guid(469a5ecc6fbf3e54c882e273e59c5991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f41b5cfee4ca064a1bcf74fd38b6dd') in 0.058956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar1.prefab
+  artifactKey: Guid(d23271da3110c09409a48019d0fd53cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar1.prefab using Guid(d23271da3110c09409a48019d0fd53cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14eb246390f331881d67a5f1e1a5f63') in 0.062489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/ChouStar.prefab
+  artifactKey: Guid(abfc475f7fc4e9247aba80dc867f67b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/ChouStar.prefab using Guid(abfc475f7fc4e9247aba80dc867f67b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa331daaf93c7dc0d9ae103d51d5890f') in 0.057700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/SenrinStar.prefab
+  artifactKey: Guid(351b914fedc76fd4e8903c51b70c600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/SenrinStar.prefab using Guid(351b914fedc76fd4e8903c51b70c600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2cc9a854a768026cbbea7a09dc993f') in 0.059402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar1.prefab
+  artifactKey: Guid(600b32dddc44d5a43a935b8f427ee2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar1.prefab using Guid(600b32dddc44d5a43a935b8f427ee2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b7562fa19f21afbd88628713f9bdb6') in 0.057931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar2.prefab
+  artifactKey: Guid(7b450dfe24ad23d4d9afd0c75797e20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar2.prefab using Guid(7b450dfe24ad23d4d9afd0c75797e20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4bac0632fd74b1f7b3c25a595fbb3c') in 0.072948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar4.prefab
+  artifactKey: Guid(b8b7538b437e1be4fbd4bb9bd4d66893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar4.prefab using Guid(b8b7538b437e1be4fbd4bb9bd4d66893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af021ad55e8af05797f77f17dba9d2f') in 0.059618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiPokaStar.prefab
+  artifactKey: Guid(ebe1ecc31f5867b4e99c795d8b580137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiPokaStar.prefab using Guid(ebe1ecc31f5867b4e99c795d8b580137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f2ba316d7e47e0bcfb2408b72f189d') in 0.059538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KamuroPokaStar.prefab
+  artifactKey: Guid(f70f4e09cd93ca9459812985de04fdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KamuroPokaStar.prefab using Guid(f70f4e09cd93ca9459812985de04fdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b5048b7d7257e6b70e6f8bc137aafc') in 0.054992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/Rising.prefab
+  artifactKey: Guid(73d308285f5597146a172cbe18affbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/Rising.prefab using Guid(73d308285f5597146a172cbe18affbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43fd7a61ef483ad0c2afd2ecf4880ea9') in 0.058043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuStar2.prefab
+  artifactKey: Guid(a31ea855c506daa4ca95e15d391697b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuStar2.prefab using Guid(a31ea855c506daa4ca95e15d391697b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60f7587fca39b5e400ed9e7f64fe593') in 0.056959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar3.prefab
+  artifactKey: Guid(622ce8497ca97a34792c8c1b5ae4d121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar3.prefab using Guid(622ce8497ca97a34792c8c1b5ae4d121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d248caf60ffdfa619efd16817cc614') in 0.054888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiSparseStar.prefab
+  artifactKey: Guid(bd7c0b28f203bee4a9238adf84d758df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiSparseStar.prefab using Guid(bd7c0b28f203bee4a9238adf84d758df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be3311acab1a20fb7093eac507cf2625') in 0.053498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar4.prefab
+  artifactKey: Guid(f235b170f31ba2546b203532a7e03271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar4.prefab using Guid(f235b170f31ba2546b203532a7e03271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea4495f71be546fcc0be6388971b1d2') in 0.060718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/ToraStar.prefab
+  artifactKey: Guid(7e30d605043acc04e81100aa9ad6e6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/ToraStar.prefab using Guid(7e30d605043acc04e81100aa9ad6e6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515639248c7f911bb59d729de945f89c') in 0.054955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiSenrinStar.prefab
+  artifactKey: Guid(cf9338ee63ea6ac4e9a79b90bc955cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiSenrinStar.prefab using Guid(cf9338ee63ea6ac4e9a79b90bc955cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63b6aa3eca3d06cc640d787ccb4ee2f') in 0.053826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuRingStar.prefab
+  artifactKey: Guid(ef59762f723eea341944d859f1aaf9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuRingStar.prefab using Guid(ef59762f723eea341944d859f1aaf9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e19ddaf40f1487b7fed4dca5b2a68a5') in 0.067234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanSenrinStar.prefab
+  artifactKey: Guid(5338da4edf6ddf644a759a52633b037c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanSenrinStar.prefab using Guid(5338da4edf6ddf644a759a52633b037c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c37851960efc9f62b47db909cc894c5') in 0.049751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/HachiStar.prefab
+  artifactKey: Guid(9681e60d4fa7c92439d2477728fba87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/HachiStar.prefab using Guid(9681e60d4fa7c92439d2477728fba87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86691ca3580fe5bc2851dee6c113a234') in 0.052061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar2.prefab
+  artifactKey: Guid(60a52c41c32d9454da91e7e4f49ee626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar2.prefab using Guid(60a52c41c32d9454da91e7e4f49ee626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5da2adc6440fcfd99f2a80cd8f1f7d2') in 0.053535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/KikuSparseStar.prefab
+  artifactKey: Guid(1d6a4bc148b948b429d0070f0a53bf03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/KikuSparseStar.prefab using Guid(1d6a4bc148b948b429d0070f0a53bf03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4cf78553771348f32d740b0601af9f') in 0.056574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanRingStar.prefab
+  artifactKey: Guid(9de131a6e2b140045a44d3aa87ab369c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanRingStar.prefab using Guid(9de131a6e2b140045a44d3aa87ab369c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409cb87a90e37d8fc4075d63aa594bda') in 0.059492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanSparseStar.prefab
+  artifactKey: Guid(f625eff76ef2eb846a3ae59f423f67af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanSparseStar.prefab using Guid(f625eff76ef2eb846a3ae59f423f67af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92de0e0195da169fec1c25ee51453a96') in 0.052841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiRingStar.prefab
+  artifactKey: Guid(df62486d9ad3fa54c9eb7a9e379d8128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiRingStar.prefab using Guid(df62486d9ad3fa54c9eb7a9e379d8128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130c3a89ac6d7610bfc9bdc90ad6e23e') in 0.051587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/BotanStar.prefab
+  artifactKey: Guid(66fc57c431b86e34b861cbd36e470b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/BotanStar.prefab using Guid(66fc57c431b86e34b861cbd36e470b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c991a96400a112bd356199518bb6c2f7') in 0.052380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiStar1.prefab
+  artifactKey: Guid(6d49559044a22d045ad331893cc1bc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiStar1.prefab using Guid(6d49559044a22d045ad331893cc1bc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c053f3a283995aa30de7e07221a23eff') in 0.054520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YashiStar2.prefab
+  artifactKey: Guid(a5931639fe9903c4aa999da8f51f356e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YashiStar2.prefab using Guid(a5931639fe9903c4aa999da8f51f356e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec60b7aaf895e4f697717876779d9e9a') in 0.053457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/VToraStar.prefab
+  artifactKey: Guid(2de1e8b3c51a063439c40538adfd7fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/VToraStar.prefab using Guid(2de1e8b3c51a063439c40538adfd7fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732595b2658122303e6d9575906687a5') in 0.057292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/YanagiSenrinStar.prefab
+  artifactKey: Guid(c2b86362f5dde0f4f820a95633382620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/YanagiSenrinStar.prefab using Guid(c2b86362f5dde0f4f820a95633382620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dcbfb88331db49c4dcd83350b9feeba') in 0.049094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Effect/Fireworks/Prefabs/HachiSenrinStar.prefab
+  artifactKey: Guid(943ba0c9901cf8648a7d8e065f09c33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Prefabs/HachiSenrinStar.prefab using Guid(943ba0c9901cf8648a7d8e065f09c33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5f3bccd47e2224ce5a219cd940e353') in 0.059583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.547261 seconds.
+  path: Assets/Effect/Fireworks/Models
+  artifactKey: Guid(1ef5b84139f2aec4090d9db937edb60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models using Guid(1ef5b84139f2aec4090d9db937edb60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a87677ea4f5e54eec0c7a95b2a2ab2c') in 0.028831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032847 seconds.
+  path: Assets/Effect/Fireworks/Models/GD1_OCT_4.fbx
+  artifactKey: Guid(a5d5a83bd22e90a449b27b7d1734e812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models/GD1_OCT_4.fbx using Guid(a5d5a83bd22e90a449b27b7d1734e812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bed130187c913818a0d0240d29feabf') in 1.812425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Effect/Fireworks/Models/ICOSphere02.fbx
+  artifactKey: Guid(127cf9ce4b1c1f043b4945082a382833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models/ICOSphere02.fbx using Guid(127cf9ce4b1c1f043b4945082a382833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffb422c6d55dae5fded8b3ef27b96df') in 0.092169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Effect/Fireworks/Models/ICOSphere03.fbx
+  artifactKey: Guid(aa1160484f570dd42b7075beaf099ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models/ICOSphere03.fbx using Guid(aa1160484f570dd42b7075beaf099ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64bf6441b76cbb7a6ee1697a0635a00d') in 0.072869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Effect/Fireworks/Models/GD1_OCT_5.fbx
+  artifactKey: Guid(a6b6265fe11dd3248a9869fddaa2e7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models/GD1_OCT_5.fbx using Guid(a6b6265fe11dd3248a9869fddaa2e7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0545abb8f99ef636835e8581fc32d56') in 0.074735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Effect/Fireworks/Models/GD2_ICO_2.fbx
+  artifactKey: Guid(8eccac95c16b937479f80d514106bb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Models/GD2_ICO_2.fbx using Guid(8eccac95c16b937479f80d514106bb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ed1952e6abb2811215439215e7d54e') in 0.083576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.756455 seconds.
+  path: Assets/Effect/Fireworks/Materials
+  artifactKey: Guid(10ef2c7159911324687023af2871b791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Materials using Guid(10ef2c7159911324687023af2871b791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e94c4c9ba61e32b1997fd2e0205d89') in 0.024387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040793 seconds.
+  path: Assets/Effect/Fireworks/Materials/Stars.mat
+  artifactKey: Guid(9a606cb8489517545a93b85e30d62772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Materials/Stars.mat using Guid(9a606cb8489517545a93b85e30d62772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7b2e7c37a4743565ed1680a1d6212f') in 0.038877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Effect/Fireworks/Materials/Trail.mat
+  artifactKey: Guid(e3d7825f15a8e5d45b42844b911b7b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Materials/Trail.mat using Guid(e3d7825f15a8e5d45b42844b911b7b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dc0079398250f519b358d6951c0edd') in 0.042623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.766000 seconds.
+  path: Assets/Effect/Fireworks/Images
+  artifactKey: Guid(aabe5f7c33ad8c54a8192303682dfb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images using Guid(aabe5f7c33ad8c54a8192303682dfb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26066264fb50ce5f6b7bfbe51611d7d') in 0.023791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039012 seconds.
+  path: Assets/Effect/Fireworks/Images/Sazanami01.png
+  artifactKey: Guid(6d8d7075f593a514c994555915500e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Sazanami01.png using Guid(6d8d7075f593a514c994555915500e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b3d4e23c18b01f9c430b0dd5330288') in 0.066486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Effect/Fireworks/Images/Star01.png
+  artifactKey: Guid(353958ff8d7347f4a8af3e09256a5a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Star01.png using Guid(353958ff8d7347f4a8af3e09256a5a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbde12e44027feb0941bf37a1a8db55') in 0.073202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Effect/Fireworks/Images/Stars01_64x64.png
+  artifactKey: Guid(d331f805a262cb84aa095e0c138b802f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Stars01_64x64.png using Guid(d331f805a262cb84aa095e0c138b802f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bb77f796f8201758fa70155cad0f36') in 0.048174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Effect/Fireworks/Images/Star.png
+  artifactKey: Guid(3d9cc0d9799ee2141b16672a56f9806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Star.png using Guid(3d9cc0d9799ee2141b16672a56f9806b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d50ee0bcf477d166b281706cbde4039') in 0.058084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Effect/Fireworks/Images/Trail.png
+  artifactKey: Guid(7c30035a4dfe48345ab367a01ae79653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Trail.png using Guid(7c30035a4dfe48345ab367a01ae79653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f9c342a0854d272bcee8a40550e90e') in 0.049218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Fireworks/Images/Stars01.png
+  artifactKey: Guid(a25e559fb60070c4983f3944a0b9a61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Fireworks/Images/Stars01.png using Guid(a25e559fb60070c4983f3944a0b9a61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09954872d0124c2b9950504a5823391') in 0.051500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.024998 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(7068c4ce0a33abe479ce39f85285ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(7068c4ce0a33abe479ce39f85285ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c378c146a44508e97c495f510c39a7f7') in 0.026479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.366169 seconds.
+  path: Assets/UI
+  artifactKey: Guid(bc1872b68d5539445a18a75612c10dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(bc1872b68d5539445a18a75612c10dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8ace6adeb2b5918409544c5083a4b2') in 0.024298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.816885 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(d85009c17323fd54e8b0d7fe834e8b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(d85009c17323fd54e8b0d7fe834e8b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c36443eee06e20c938614381191296') in 0.028533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.696986 seconds.
+  path: Assets/Scripts/Fireworks.cs
+  artifactKey: Guid(b0b3e4d33c8d2404483f2ecc198001ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Fireworks.cs using Guid(b0b3e4d33c8d2404483f2ecc198001ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecaf41f1a4b66677ce76742596d32df') in 0.028871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.330982 seconds.
+  path: Assets/Scripts/Constant.cs
+  artifactKey: Guid(cde2738aa2c695142ad4464edc012b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Constant.cs using Guid(cde2738aa2c695142ad4464edc012b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c174aeadafaa65643b8d39a87861722d') in 0.026809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.393142 seconds.
+  path: Assets/Scripts/GradientColors.cs
+  artifactKey: Guid(ea2c416e254b3af4785504e68d780e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GradientColors.cs using Guid(ea2c416e254b3af4785504e68d780e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ab0ac1c8fb5dac0cddbbcc0431188d') in 0.027629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.550750 seconds.
+  path: Assets/Scripts/InputManager.cs
+  artifactKey: Guid(cf186d772517b5f4dbcc06da7d3ddc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/InputManager.cs using Guid(cf186d772517b5f4dbcc06da7d3ddc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d6a323355ab125d518571379517e98') in 0.035385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.097911 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(aef7102a10be3f74b877f302f3d5e755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(aef7102a10be3f74b877f302f3d5e755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3dbde99e6607c2f4f8d8cc4ffab350') in 0.026953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.612681 seconds.
+  path: Assets/Editor/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat
+  artifactKey: Guid(51b74d7bad397457d883c5940f7664d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat using Guid(51b74d7bad397457d883c5940f7664d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197ce6bf78657c143ed21b36cd546af0') in 0.053474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Particle.mat
+  artifactKey: Guid(0ebe97761be25ca498f4b29820c672d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Particle.mat using Guid(0ebe97761be25ca498f4b29820c672d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9ca06492b2c828e8dc4a38afc431bf') in 0.047647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Editor/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat
+  artifactKey: Guid(cdbb40e11399e4a17882ada20a1b896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat using Guid(cdbb40e11399e4a17882ada20a1b896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d552dd246b8bbadb837d0bbf1209ce') in 0.077654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Editor/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat
+  artifactKey: Guid(c82a334cf5a5e47978749c210cee72a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat using Guid(c82a334cf5a5e47978749c210cee72a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583bdb0300ea754c25070cadf6956689') in 0.084874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat
+  artifactKey: Guid(2e6761ef29bab414093fbcc3d8b98559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat using Guid(2e6761ef29bab414093fbcc3d8b98559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51115a5a85d343fff7c63076ea6d1ff2') in 0.062870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Editor/AllSkyFree/Cold Night/Cold Night Equirect.mat
+  artifactKey: Guid(eac2ef371405749e0bd050b4c3272f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cold Night/Cold Night Equirect.mat using Guid(eac2ef371405749e0bd050b4c3272f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec12138ada6052f9a1397dc49779b46') in 0.068674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/Landscape.mat
+  artifactKey: Guid(36b724f005def154c831325bf69c83e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/Landscape.mat using Guid(36b724f005def154c831325bf69c83e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08b7946b74bc2536b161c2283582e81') in 0.063830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Ray.mat
+  artifactKey: Guid(f533b9816b4afad4e92ec6805a818922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Ray.mat using Guid(f533b9816b4afad4e92ec6805a818922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed557f736e307c74c0cea24bda574c3') in 0.620466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat
+  artifactKey: Guid(413befd66bdd84d569871d0524b4685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat using Guid(413befd66bdd84d569871d0524b4685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8a6349a5515da382f09aa698931a0c') in 0.038629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Editor/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat
+  artifactKey: Guid(656058fe318eb48558d21d66d1a79a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat using Guid(656058fe318eb48558d21d66d1a79a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6fa2c94caccce36daa8a46783c1dcc') in 0.239630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Ripple.mat
+  artifactKey: Guid(4ce4e739ac83e2846b30388df8a23cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Ripple.mat using Guid(4ce4e739ac83e2846b30388df8a23cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9d7878ab51c899e083b54480b9f6c8') in 0.820453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat
+  artifactKey: Guid(5f35d0bb3bb3e45048ec76b0a3157c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat using Guid(5f35d0bb3bb3e45048ec76b0a3157c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8e3a3ef0f3613ea1457d550a40a768') in 0.035144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Stripe.mat
+  artifactKey: Guid(934dab3aaf54aee41b538e9ee139ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Stripe.mat using Guid(934dab3aaf54aee41b538e9ee139ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ff794a68f650e1d5cf0246fd26dd0e') in 0.765464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat
+  artifactKey: Guid(3386ea1f916284d438a5d95882e39fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat using Guid(3386ea1f916284d438a5d95882e39fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33fd98cf9a31af5a24e09dff19e1333') in 0.054350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Reflection.mat
+  artifactKey: Guid(86200666f918c9340a1d4b379d5bcaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Reflection.mat using Guid(86200666f918c9340a1d4b379d5bcaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884f89a7a08d2bfe90d8e67680569718') in 0.057220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Editor/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat
+  artifactKey: Guid(aa78c8d403a8547fe86d1f74239e6b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat using Guid(aa78c8d403a8547fe86d1f74239e6b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1399ecebe7e33d4d8b218d2aee936819') in 0.071813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat
+  artifactKey: Guid(179503e6ea7a5414da971761ed8ad6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat using Guid(179503e6ea7a5414da971761ed8ad6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214a3cf31459f2fd502ad213977d6619') in 0.054924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Editor/AllSkyFree/Overcast Low/AllSky_Overcast4_Low Equirect.mat
+  artifactKey: Guid(54fe2f000ad8f424fb63cc3ea0ae2bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Overcast Low/AllSky_Overcast4_Low Equirect.mat using Guid(54fe2f000ad8f424fb63cc3ea0ae2bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2606a2c540a7c1021098d524bb3b41ab') in 0.065159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Editor/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.mat
+  artifactKey: Guid(f2b5f3f20933f434e850db1b710542fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.mat using Guid(f2b5f3f20933f434e850db1b710542fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9554fcc34bf9d5fbffb2f01c2d7a18f5') in 0.074139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Editor/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat
+  artifactKey: Guid(73324b55f67f54c7bbf43204788b8bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat using Guid(73324b55f67f54c7bbf43204788b8bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8356781cc51d83494fab2b8e3684ce2d') in 0.067015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat
+  artifactKey: Guid(05aa87d4636d34850a6f48daedd1b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat using Guid(05aa87d4636d34850a6f48daedd1b55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a091c49532055f2c1decd66953cf4283') in 0.040896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Editor/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat
+  artifactKey: Guid(3a6db933fef1d4c759bf21220420505f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat using Guid(3a6db933fef1d4c759bf21220420505f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80424f57ba9a39b2f587177ed9c7f2be') in 0.067251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Ring.mat
+  artifactKey: Guid(923c3e3fa851f994d9e6b4615bcab12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Ring.mat using Guid(923c3e3fa851f994d9e6b4615bcab12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf3da10a40d005fa6660fe2e3976de8') in 0.060934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/String.mat
+  artifactKey: Guid(480c04d5060a1db4995adae174429842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/String.mat using Guid(480c04d5060a1db4995adae174429842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78430130d462cc507390e11f73bd48da') in 0.903851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Editor/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat
+  artifactKey: Guid(01f4eb1c73693428d923f1520032e7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat using Guid(01f4eb1c73693428d923f1520032e7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af1b9faf6ac2c824bb777c19144d734') in 0.060293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Editor/AllSkyFree/Night MoonBurst/Night Moon Burst.mat
+  artifactKey: Guid(c494c335823f54b52b2e87e1b7a63a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Night MoonBurst/Night Moon Burst.mat using Guid(c494c335823f54b52b2e87e1b7a63a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981a2e8965d574fabd5972f8651202c9') in 0.082706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat
+  artifactKey: Guid(30d990fd39e798242be00a47c8f8fcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat using Guid(30d990fd39e798242be00a47c8f8fcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5fe7bbdfbed18ee59331bce4b95cef') in 0.061775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Editor/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat
+  artifactKey: Guid(fe4e130f9947345a2b213cb5038851a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat using Guid(fe4e130f9947345a2b213cb5038851a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a11bf59d5a99bf1b1f3878e905d1855') in 0.072684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Editor/AllSkyFree/Deep Dusk/Deep Dusk.mat
+  artifactKey: Guid(b4f152e0498484391a9f0d5a1facf03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Deep Dusk/Deep Dusk.mat using Guid(b4f152e0498484391a9f0d5a1facf03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c5d24c8fa174b76d324e4f8b962fa6') in 0.089222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat
+  artifactKey: Guid(13177a7929fc94508aeae20a9a650440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat using Guid(13177a7929fc94508aeae20a9a650440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a5a30ca81f049e606a5dd61d44c2a2') in 0.050420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Editor/AllSkyFree/Cold Night/Cold Night.mat
+  artifactKey: Guid(9af23ba5fa5364ff598888460e0e2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cold Night/Cold Night.mat using Guid(9af23ba5fa5364ff598888460e0e2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664c02d840cddb86aed969552b5d470f') in 0.089139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Editor/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat
+  artifactKey: Guid(7416536dbe0334cfd888dd1beb75a9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat using Guid(7416536dbe0334cfd888dd1beb75a9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b0318a647bc2ca80301cb92a2fd8f4') in 0.336273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat
+  artifactKey: Guid(eba7c646abc914766b797ce6e6b6aef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat using Guid(eba7c646abc914766b797ce6e6b6aef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbcf06c0f86d35ef37ac2e3394532b0') in 0.060086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Editor/AllSkyFree/Cold Sunset/Cold Sunset.mat
+  artifactKey: Guid(2d796ced94d61438fbab81b194038162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cold Sunset/Cold Sunset.mat using Guid(2d796ced94d61438fbab81b194038162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077bb14410c55abf439cd704ceba44a0') in 0.086768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat
+  artifactKey: Guid(a7f9f8058b27648f4ba9ed54ced4ac00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat using Guid(a7f9f8058b27648f4ba9ed54ced4ac00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2362abab3648042c79ec07a381a2ba') in 0.055655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat
+  artifactKey: Guid(7809cf584f7a8ba4897c2c57e9669dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat using Guid(7809cf584f7a8ba4897c2c57e9669dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0cfbb677ec32ce8e91451e41a99df4') in 0.060434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat
+  artifactKey: Guid(3d7bc6435f5ced147872d5b96fd28f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat using Guid(3d7bc6435f5ced147872d5b96fd28f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a9e10abd87e09b1470ec3fa29fadde') in 0.056629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat
+  artifactKey: Guid(174e7977166824bf49a2c2f4b54fd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat using Guid(174e7977166824bf49a2c2f4b54fd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f89e3c1f1068e5bc7812725de82e41e') in 0.055654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat
+  artifactKey: Guid(e647ded4fdda54d5c82ce352c1b0be01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat using Guid(e647ded4fdda54d5c82ce352c1b0be01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae991d945f674cbf2a0948312d6e306f') in 0.052868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Editor/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat
+  artifactKey: Guid(8b7dd0809c7c6498789fa32a61eaa6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat using Guid(8b7dd0809c7c6498789fa32a61eaa6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7abc8d7b2b7232ae05696cddfcc4a0') in 0.096091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Editor/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat
+  artifactKey: Guid(c56e28e54cac24b04ae3dd957d214534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat using Guid(c56e28e54cac24b04ae3dd957d214534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498098c6e0c1573171f4795a9b8bdeb4') in 0.081254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Editor/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat
+  artifactKey: Guid(13f6e5eed33d84c76979f1ec06b5e48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat using Guid(13f6e5eed33d84c76979f1ec06b5e48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6133c8c4a6c1e881e58689436c4cd94') in 0.079581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Noise.mat
+  artifactKey: Guid(ee21e3566a33f754580376cf831c934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Noise.mat using Guid(ee21e3566a33f754580376cf831c934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cbdd6b2038c1f3f39f28c29a68718b') in 0.079052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat
+  artifactKey: Guid(fbc2e1c016c544198be90cefecf38f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat using Guid(fbc2e1c016c544198be90cefecf38f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23353c7206d4f2d028f0b16934d4704') in 0.048992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat
+  artifactKey: Guid(6e219c5ff336949179da2590886e94eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat using Guid(6e219c5ff336949179da2590886e94eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3519f071a393db0c121bbea88471aa7') in 0.051889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Effect/Kaleidoscope/Materials/Trail.mat
+  artifactKey: Guid(6304f419bcac1c2499ceb6387d75f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Materials/Trail.mat using Guid(6304f419bcac1c2499ceb6387d75f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5bd0ac982cd9ed52fe44664d5415a9') in 0.066019 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.422 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2424ms)
+		BeginReloadAssembly (275ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (94ms)
+		EndReloadAssembly (1972ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (387ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (1173ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (836ms)
+				ProcessInitializeOnLoadMethodAttributes (164ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (42ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3201 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (318.5 KB). Loaded Objects now: 4027.
+Memory consumption went from 263.0 MB to 262.7 MB.
+Total: 9.162400 ms (FindLiveObjects: 0.849500 ms CreateObjectMapping: 0.961300 ms MarkObjects: 6.837100 ms  DeleteObjects: 0.511500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 118.047655 seconds.
+  path: Assets/Texture/SkyboxTest
+  artifactKey: Guid(15bac8df1c867c3469d3cedefdab58d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/SkyboxTest using Guid(15bac8df1c867c3469d3cedefdab58d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa88cb81c7c833d2e74e0c59f9fede5') in 0.033598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038210 seconds.
+  path: Assets/Texture/SkyboxTest/2019-04-14-Braunsfeld-Ehrenfeld-Müngersdorf-0129.png
+  artifactKey: Guid(e68412e02168b5f439cb0409c65d9be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/SkyboxTest/2019-04-14-Braunsfeld-Ehrenfeld-Müngersdorf-0129.png using Guid(e68412e02168b5f439cb0409c65d9be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff2ebd75ecf65f33091fb96246a7f00') in 0.102500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Texture/SkyboxTest/2019-04-18-Hexenturm_Walberberg-Pano.png
+  artifactKey: Guid(7e0462f0171af6649808d58e3f1be5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/SkyboxTest/2019-04-18-Hexenturm_Walberberg-Pano.png using Guid(7e0462f0171af6649808d58e3f1be5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c3c5eaa9e63aea563d2d7a7109bf3a') in 0.066090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Texture/SkyboxTest/AirCarezzaSummer_(3D_Südtirol)_09.png
+  artifactKey: Guid(fe6e099a8282e524f91593313f036038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/SkyboxTest/AirCarezzaSummer_(3D_Südtirol)_09.png using Guid(fe6e099a8282e524f91593313f036038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215e96f0611f60059e2a632cc7352eec') in 0.061936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.016433 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise01.png
+  artifactKey: Guid(cd3dc8fb88e6e6b489dca9ad999ad712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise01.png using Guid(cd3dc8fb88e6e6b489dca9ad999ad712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8829879cd594f8597fd400a52f7119') in 0.050685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson06_trail01.png
+  artifactKey: Guid(812be02b2f3062c42b918a9a68d26f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson06_trail01.png using Guid(812be02b2f3062c42b918a9a68d26f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc4e0c432e4038e5b4adf86fedb9655') in 0.061512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson07_noise01.png
+  artifactKey: Guid(a5cbd693f8fd06b409e8144a9983533e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson07_noise01.png using Guid(a5cbd693f8fd06b409e8144a9983533e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ee85d0106e01dd2bcdd5a65b34c300') in 0.059723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise04.png
+  artifactKey: Guid(a219fae1536f44e4084db5e3cd4ba4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise04.png using Guid(a219fae1536f44e4084db5e3cd4ba4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd15f311374da4f5b52d1d3942b80657') in 0.057967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise03.png
+  artifactKey: Guid(8bb262e68dea7f849a51321dae2a3479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise03.png using Guid(8bb262e68dea7f849a51321dae2a3479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b289cce87e2dc15ffc8bce154f5d95') in 0.060028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise02.png
+  artifactKey: Guid(462ae60db47e70f4c982c186f1826734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Textures/T_lesson06_noise02.png using Guid(462ae60db47e70f4c982c186f1826734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c6c315dd843699f86380869904180b') in 0.052989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.849032 seconds.
+  path: Assets/Effect/Kaleidoscope/Models/ICOSphere01.fbx
+  artifactKey: Guid(b061a377c9556b34f92ce12677aee97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effect/Kaleidoscope/Models/ICOSphere01.fbx using Guid(b061a377c9556b34f92ce12677aee97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef4ba8bc626b466dc23a63eea9607fd') in 0.214018 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005123 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.461 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1462ms)
+		BeginReloadAssembly (229ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (1122ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (220ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (614ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (422ms)
+				ProcessInitializeOnLoadMethodAttributes (84ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3189 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (317.0 KB). Loaded Objects now: 4207.
+Memory consumption went from 315.7 MB to 315.4 MB.
+Total: 4.654000 ms (FindLiveObjects: 0.426600 ms CreateObjectMapping: 0.311100 ms MarkObjects: 3.834700 ms  DeleteObjects: 0.079500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.041 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2043ms)
+		BeginReloadAssembly (218ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1682ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (284ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (1066ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (758ms)
+				ProcessInitializeOnLoadMethodAttributes (154ms)
+				AfterProcessingInitializeOnLoad (24ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (55ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (317.0 KB). Loaded Objects now: 4209.
+Memory consumption went from 315.3 MB to 315.0 MB.
+Total: 8.880800 ms (FindLiveObjects: 0.501800 ms CreateObjectMapping: 0.335500 ms MarkObjects: 7.943900 ms  DeleteObjects: 0.096500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.433 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2436ms)
+		BeginReloadAssembly (260ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (2003ms)
+			LoadAssemblies (139ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (385ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (1267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (154ms)
+				ProcessInitializeOnLoadAttributes (891ms)
+				ProcessInitializeOnLoadMethodAttributes (185ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (50ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (317.0 KB). Loaded Objects now: 4211.
+Memory consumption went from 315.3 MB to 315.0 MB.
+Total: 5.438000 ms (FindLiveObjects: 0.511700 ms CreateObjectMapping: 0.390500 ms MarkObjects: 4.431100 ms  DeleteObjects: 0.102400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005649 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.739 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1741ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1405ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (252ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (873ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (580ms)
+				ProcessInitializeOnLoadMethodAttributes (159ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (43ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (316.5 KB). Loaded Objects now: 4213.
+Memory consumption went from 315.3 MB to 315.0 MB.
+Total: 7.500700 ms (FindLiveObjects: 0.541000 ms CreateObjectMapping: 0.369200 ms MarkObjects: 6.487000 ms  DeleteObjects: 0.101800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
