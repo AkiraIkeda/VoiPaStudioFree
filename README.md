@@ -33,6 +33,6 @@ VR Developer : Yuya Maruyama https://github.com/maru-v
 Special Thanks to  
 VFX Demonstration :   
 Pei https://www.youtube.com/channel/UCg54EmEsHx7JRd-nCL2PbvQ  
-AcoColor https://www.youtube.com/watch?v=GWgcSyNHSb4  
+AcoColor https://www.youtube.com/channel/UCdrLIWIH0NPXediIm0otYbQ  
 VoiPa Project is developed with Mitten, technology community guild.  
 Mitten https://www.mitten.biz/  
