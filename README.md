@@ -7,11 +7,13 @@ VoiPaプロジェクトは、音声や音楽と一緒にインタラクティブ
 マイクで音をリアルタイムに録音し、そのタイミングでカラフルなエフェクトを表示します。  
 このプログラムは、Unity 2021.2.8f1で動作します。  
 <br>
-VFX Fireworks Demo : https://www.youtube.com/watch?v=rkTLEKyIi5k  
-VFX Kaleidoscope Demo : https://www.youtube.com/watch?v=GWgcSyNHSb4  
-<br>
+VFX Fireworks  
+Demonstrated by Pei 
 [![](https://img.youtube.com/vi/rkTLEKyIi5k/0.jpg)](https://www.youtube.com/watch?v=rkTLEKyIi5k)  
+VFX Kaleidoscope  
+Demonstrated by AcoColor  
 [![](https://img.youtube.com/vi/GWgcSyNHSb4/0.jpg)](https://www.youtube.com/watch?v=GWgcSyNHSb4)  
+<br>
 ## Windows, Mac & Linux Standalone exe  
 VoiPaStudio1.0.0.zip contains the exe file builed to Windows, Mac, Linux Standalone by Unity.  
 This exe file uses the following Free Assets but the repository does not contains them because the reason of the licence.  
