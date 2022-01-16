@@ -30,7 +30,7 @@ Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms
 <br>
 ## How to use
 Connect USB microphone to your devices and run the VoiPaStudio.exe.  
-test  
+Adjust volume threshold with the left slider.  
 <br>
 ## Update ver1.0.0  
 test
