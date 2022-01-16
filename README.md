@@ -31,7 +31,7 @@ test
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
-VFX Idea(Kaleidoscope) : Chun  
+VFX Design Idea (Kaleidoscope) : Chun  
 <br>
 Special Thanks to  
 VFX Demonstration Artist:   
