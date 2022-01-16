@@ -34,7 +34,7 @@ Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms
 * Use the slider on the left to adjust the volume threshold.  
 * Alt+Enter to switch to full screen mode.  
 * Esc to exit the program.  
-<br>
+  
 * USBマイクを接続し、VoiPaStudio.exeを起動します。  
 * Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
 * 左のスライダーで、ボリュームのしきい値を調整します。  
