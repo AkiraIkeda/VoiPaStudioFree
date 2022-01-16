@@ -33,6 +33,10 @@ Connect a USB microphone and run VoiPaStudio.exe.
 Select your microphone device from the Audio Device drop-down list.  
 Use the slider on the left to adjust the volume threshold.  
 <br>
+USBマイクを接続し、VoiPaStudio.exeを起動します。  
+Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
+左のスライダーで、ボリュームのしきい値を調整します。  
+<br>
 ## Update ver1.0.0  
 test
 <br>
