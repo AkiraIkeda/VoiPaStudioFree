@@ -20,7 +20,7 @@ VoiPaStudio1.0.0.zip is an exe file that has been compiled to run standalone on 
 Download the newest zip file from [Releases](https://github.com/AkiraIkeda/VoiPaStudioFree/releases) and run the exe file in it.  
 <br>
 VoiPaStudio1.0.0.zip は、Windows、Mac、Linux 上で動作するようにコンパイルされた exe ファイルです。  
-リリースから最新のzipファイルをダウンロードし、その中のexeファイルを実行してください。  
+[リリース](https://github.com/AkiraIkeda/VoiPaStudioFree/releases)から最新のzipファイルをダウンロードし、その中のexeファイルを実行してください。  
 <br>
 This exe file uses the following free assets, which are not included in the repository due to licensing reasons.  
 exeファイルは、以下のフリーアセットを使用していますが、ライセンスの関係上、リポジトリには含まれません。  
