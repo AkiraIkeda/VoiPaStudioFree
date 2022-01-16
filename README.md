@@ -29,7 +29,9 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-s
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
 ## How to use
-test
+1. Connect USB microphone to your devices.  
+2. Run the VoiPaStudio.exe.  
+3. 
 <br>
 ## Update ver1.0.0  
 test
