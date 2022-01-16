@@ -21,6 +21,7 @@ Download the newest zip file from Releases and run the exe file in it.
 This exe file uses the following free assets, which are not included in the repository due to licensing reasons.  
 <br>
 VoiPaStudio1.0.0.zip は、Windows、Mac、Linux 上でスタンドアロンに動作するようにコンパイルされた exe ファイルです。  
+リリースから最新のzipファイルをダウンロードし、その中のexeファイルを実行してください。  
 このexeファイルは、以下のフリーアセットを使用していますが、ライセンスの関係上、リポジトリには含まれていません。  
 <br>
 AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
