@@ -29,8 +29,9 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-s
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
 ## How to use
-Connect USB microphone to your devices and run the VoiPaStudio.exe.  
-Adjust volume threshold with the left slider.  
+Connect a USB microphone and run VoiPaStudio.exe.  
+Select your microphone device from the Audio Device drop-down list.  
+Use the slider on the left to adjust the volume threshold.  
 <br>
 ## Update ver1.0.0  
 test
