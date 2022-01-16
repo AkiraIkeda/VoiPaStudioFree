@@ -19,7 +19,7 @@ VFX Kaleidoscope ( Demonstrated by AcoColor )
 VoiPaStudio1.0.0.zip contains the exe file builed to Windows, Mac, Linux Standalone.  
 This exe file uses the following Free Assets but the repository does not contains them because the reason of the licence.  
 <br>
-VoiPaStudio1.0.0.zip は、Windows, Mac, Linux のスタンドアロンで動作するようにコンパイルされたexeファイルです。 
+VoiPaStudio1.0.0.zip は、Windows, Mac, Linux のスタンドアロンで動作するようにコンパイルされたexeファイルです。  
 このexeファイルは、以下のフリーアセットを使用していますが、ライセンスの関係で、リポジトリには含まれていません。  
 <br>
 AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
