@@ -24,9 +24,8 @@ VoiPaStudio1.0.0.zip は、Windows、Mac、Linux 上で動作するようにコ�
 <br>
 This exe file uses the following free assets, which are not included in the repository due to licensing reasons.  
 exeファイルは、以下のフリーアセットを使用していますが、ライセンスの関係上、リポジトリには含まれません。  
-AllSky Free - 10 Sky / Skybox Set :  
-https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
-Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
+[AllSky Free - 10 Sky / Skybox Set](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)  
+Asset Store Terms of Service and EULA(https://unity3d.com/jp/legal/as_terms)  
 <br>
 ## How to use
 1. Connect a USB microphone and run VoiPaStudio.exe.  
