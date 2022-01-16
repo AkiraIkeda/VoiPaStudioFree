@@ -17,7 +17,7 @@ VFX Kaleidoscope ( Demonstrated by AcoColor )
 <br>
 ## Windows, Mac & Linux Standalone exe  
 VoiPaStudio1.0.0.zip is an exe file that has been compiled to run standalone on Windows, Mac and Linux.  
-Download the newest zip file from [Releases] [https://github.com/AkiraIkeda/VoiPaStudioFree/releases] and run the exe file in it.  
+Download the newest zip file from [Releases](https://github.com/AkiraIkeda/VoiPaStudioFree/releases) and run the exe file in it.  
 <br>
 VoiPaStudio1.0.0.zip は、Windows、Mac、Linux 上で動作するようにコンパイルされた exe ファイルです。  
 リリースから最新のzipファイルをダウンロードし、その中のexeファイルを実行してください。  
