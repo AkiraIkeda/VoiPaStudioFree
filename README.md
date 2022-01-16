@@ -1,10 +1,10 @@
 # VoiPaStudioFree ver1.0.0 Made with Unity
-VoiPa project is designed for enjoying interactive visual contents with voice or music.  
-Your microphone records sounds in real-time and the colorful effect appeared just time.  
+The VoiPa project is a project to enjoy interactive video content along with voice and music.  
+The microphone records sound in real time and displays colorful effects at the right time.  
 This Program runs in Unity 2021.2.8f1 
 <br>
-VoiPaプロジェクトは、音声や音楽と一緒にインタラクティブな映像コンテンツを楽しむためのプロジェクトです。  
-マイクで音をリアルタイムに録音し、そのタイミングでカラフルなエフェクトを表示します。  
+VoiPaプロジェクトは、音声や音楽とともに、インタラクティブな映像コンテンツを楽しむプロジェクトです。  
+マイクで音をリアルタイムに録音し、タイミングを合わせてカラフルなエフェクトを表示します。  
 このプログラムは、Unity 2021.2.8f1で動作します。  
 <br>
 VFX Fireworks ( Demonstrated by Pei )
