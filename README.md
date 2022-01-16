@@ -29,17 +29,17 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-s
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
 ## How to use
-* Connect a USB microphone and run VoiPaStudio.exe.  
-* Select your microphone device from the Audio Device drop-down list.  
-* Use the slider on the left to adjust the volume threshold.  
-* Alt+Enter to switch to full screen mode.  
-* Esc to exit the program.  
-  
-* USBマイクを接続し、VoiPaStudio.exeを起動します。  
-* Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
-* 左のスライダーで、ボリュームのしきい値を調整します。  
-* Alt+Enterでフルスクリーンモードに切り替わります。  
-* Escでプログラムを終了します。  
+  Connect a USB microphone and run VoiPaStudio.exe.  
+  Select your microphone device from the Audio Device drop-down list.  
+  Use the slider on the left to adjust the volume threshold.  
+  Alt+Enter to switch to full screen mode.  
+  Esc to exit the program.  
+<br>
+  USBマイクを接続し、VoiPaStudio.exeを起動します。  
+  Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
+  左のスライダーで、ボリュームのしきい値を調整します。  
+  Alt+Enterでフルスクリーンモードに切り替わります。  
+  Escでプログラムを終了します。  
 <br>
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
