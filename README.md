@@ -37,9 +37,6 @@ Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms
 2.Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
 3.左のスライダーで、ボリュームのしきい値を調整します。  
 <br>
-## Update ver1.0.0  
-test
-<br>
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
