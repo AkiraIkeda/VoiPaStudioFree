@@ -25,6 +25,9 @@ VoiPaStudio1.0.0.zip は、Windows、Mac、Linux 上でスタンドアロンに�
 AllSky Free - 10 Sky / Skybox Set : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014  
 Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms  
 <br>
+## How to use
+test
+<br>
 ## Update ver1.0.0  
 test
 <br>
