@@ -34,7 +34,7 @@ VR Developer : Yuya Maruyama https://github.com/maru-v
 VFX Idea(Kaleidoscope) : Chun  
 <br>
 Special Thanks to  
-VFX Demonstration :   
+VFX Demonstration Artist:   
 Pei https://www.youtube.com/channel/UCg54EmEsHx7JRd-nCL2PbvQ  
 AcoColor https://www.youtube.com/channel/UCdrLIWIH0NPXediIm0otYbQ  
 <br>
