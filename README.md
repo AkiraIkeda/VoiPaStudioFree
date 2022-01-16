@@ -40,7 +40,6 @@ Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms
 3. 左のスライダーで、ボリュームのしきい値を調整します。  
 4. Alt+Enterでフルスクリーンモードに切り替わります。  
 5. Escでプログラムを終了します。  
-<br>
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
