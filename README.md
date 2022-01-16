@@ -1,7 +1,7 @@
 # VoiPaStudioFree ver1.0.0 Made with Unity
 The VoiPa project is a project to enjoy interactive video content along with voice and music.  
 The microphone records sound in real time and displays colorful effects at the right time.  
-This Program runs in Unity 2021.2.8f1 
+This Program runs in Unity 2021.2.8f1  
 <br>
 VoiPaプロジェクトは、音声や音楽とともに、インタラクティブな映像コンテンツを楽しむプロジェクトです。  
 マイクで音をリアルタイムに録音し、タイミングを合わせてカラフルなエフェクトを表示します。  
