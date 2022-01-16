@@ -32,10 +32,14 @@ Asset Store Terms of Service and EULA : https://unity3d.com/jp/legal/as_terms
 1.Connect a USB microphone and run VoiPaStudio.exe.  
 2.Select your microphone device from the Audio Device drop-down list.  
 3.Use the slider on the left to adjust the volume threshold.  
+4.Alt+Enter to switch to full screen mode. 
+5.Esc to exit the program.
 <br>
 1.USBマイクを接続し、VoiPaStudio.exeを起動します。  
 2.Audio Deviceのドロップダウンリストから、マイクデバイスを選択します。  
-3.左のスライダーで、ボリュームのしきい値を調整します。  
+3.左のスライダーで、ボリュームのしきい値を調整します。
+4.Alt+Enterでフルスクリーンモードに切り替わります。  
+5.Escでプログラムを終了します。  
 <br>
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
