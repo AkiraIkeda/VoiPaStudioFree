@@ -42,7 +42,7 @@ exeファイルは、以下のフリーアセットを使用していますが�
 ## Creators  
 Project Director, Developer : Akira Ikeda https://github.com/AkiraIkeda  
 VR Developer : Yuya Maruyama https://github.com/maru-v  
-VFX Design Idea (Kaleidoscope) : Chun  
+VFX Design Idea (Kaleidoscope) : Haruna Fujita  
 <br>
 Special Thanks to  
 VFX Demonstration Artist:   
